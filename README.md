@@ -2,7 +2,7 @@
 # 🖥️ DasherPR - Developer 🖥️
 
  - I'm a student of Mechatronic Engineering 🤖
- - I'm learning to program in JavaScript and Python 🐍
+ - I'm learning to program in JavaScript 💻 and Python 🐍
  - I have basic knowledge of Frontend (HTML,CSS and JavaScript)
 
  # 🔎 You will find... 🔍
